@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "https://wnd-parse-files.herokuapp.com/parse",
+      "serverURL": "https://weightsndates-server-prod.herokuapp.com/parse",
       "appId": "9dNCAwH7vA2ni7XTATXKsGQnNRCnwH7XVEKUgWyk",
       "appName": "Weights N Dates PROD",
       "masterKey": "seXsSDxuUaarP0gN6pCikpJiZZgKgKLiU0p8KJal",
